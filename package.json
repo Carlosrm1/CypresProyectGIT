@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "prueba guid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlosrm1/CypresProyectGIT.git"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlosrm1/CypresProyectGIT/issues"
+  },
+  "homepage": "https://github.com/Carlosrm1/CypresProyectGIT#readme"
+}
