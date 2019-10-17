@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Carlosrm1/CypresProyectGIT/issues"
   },
-  "homepage": "https://github.com/Carlosrm1/CypresProyectGIT#readme"
+  "homepage": "https://github.com/Carlosrm1/CypresProyectGIT#readme",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
 }
